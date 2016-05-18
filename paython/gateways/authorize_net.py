@@ -14,7 +14,7 @@ class AuthorizeNet(PostGateway):
 
     # This is how we determine whether or not we allow 'test' as an init param
     API_URI = {
-        'live' : 'https://secure.authorize.net/gateway/transact.dll',
+	'live' : 'https://secure2.authorize.net/gateway/transact.dll',
         'test' : 'https://test.authorize.net/gateway/transact.dll'
     }
 
