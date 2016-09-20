@@ -1,6 +1,6 @@
 nose
 coverage
-suds
+suds-jurko
 stripe
 samurai
 python-dateutil
