@@ -40,7 +40,7 @@ setup(
         "License :: OSI Approved :: MIT License",
     ],
     install_requires=[
-        'suds==0.4',
+        'suds-jurko==0.6',
         'stripe>=1.7.4',
         'samurai==0.6',
         'python-dateutil'
